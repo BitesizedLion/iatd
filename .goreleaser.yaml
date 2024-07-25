@@ -17,8 +17,7 @@ builds:
       - darwin
 
 archives:
-  - files:
-      - none*
+- format: binary
 
 changelog:
   sort: asc
