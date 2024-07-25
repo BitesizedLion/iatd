@@ -17,7 +17,7 @@ IATD is useful for researchers, archivists, or anyone who needs to bulk download
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/iatd.git
+    git clone https://github.com/BitesizedLion/iatd.git
     cd iatd
     ```
 
@@ -30,12 +30,12 @@ OR:
 
 Install with `go install`:
 ```sh
-go install github.com/yourusername/iatd
+go install github.com/BitesizedLion/iatd
 ```
 
 OR:
 
-Download a build from the [releases](https://github.com/yourusername/iatd/releases)
+Download a build from the [releases](https://github.com/BitesizedLion/iatd/releases)
 
 ## Usage
 
