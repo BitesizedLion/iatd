@@ -38,7 +38,8 @@ OR:
 Download a build from the [releases](https://github.com/BitesizedLion/iatd/releases)
 
 ## Usage
-
+> [!TIP]
+> You can get this by using [Advanced Search](https://archive.org/advancedsearch.php) and selecting "CSV format"
 1. Prepare a CSV file (e.g., `search.csv`) with the following format:
     ```
     identifier
@@ -47,8 +48,6 @@ Download a build from the [releases](https://github.com/BitesizedLion/iatd/relea
     winampskin_08_Meaningless_Shallow
     ...
     ```
-    > [!TIP]
-    > You can get this by using [Advanced Search](https://archive.org/advancedsearch.php) and selecting "CSV format"
 
 2. Run the downloader:
     ```sh
