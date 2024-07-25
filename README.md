@@ -13,7 +13,7 @@ IATD is useful for researchers, archivists, or anyone who needs to bulk download
 ## Installation
 
 > [!IMPORTANT]
-> You will need Golang installed.
+> You will need to have Golang installed.
 
 1. Clone the repository:
     ```sh
